@@ -1,2 +1,2 @@
 # youtube-viewcounts
-Pulls all YouTube viewcounts for a specific artist.
+Pulls all YouTube viewcounts for a specific channel.
